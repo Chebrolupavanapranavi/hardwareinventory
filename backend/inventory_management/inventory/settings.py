@@ -18,7 +18,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "corsheaders",
-    'inventory_management',
+    "inventory_management",
     "inventory",
 ]
 
